@@ -1,0 +1,12 @@
+{
+    "n_mahjong": 40,
+    "enable_msaa": true,
+    "enable_vsync": false,
+    "target_fps": 120,
+    "use_mipmap": true,
+    "use_anisotropy": true,
+    "round_n_hint": 64,
+    "shadow_mode": 2,
+    "pcf_samples": 64,
+    "physics_sub": 4
+}
